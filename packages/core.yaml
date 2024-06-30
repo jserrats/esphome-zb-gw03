@@ -41,8 +41,6 @@ ota:
 logger:
   level: DEBUG
 
-api:
-
 uart:
   id: uart_zigbee
   rx_pin: GPIO4
